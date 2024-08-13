@@ -1,0 +1,90 @@
+#banner{
+    background-color: #FEF8E4;
+    padding: 60px 0px;
+}
+
+.banner_main h2{
+    font-size: 72px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #192239;
+}
+.banner_main h3{
+    font-size: 72px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #FF7628;
+}
+
+.banner_main p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #6C7D93;
+    margin-top: 20px;
+    padding-right: 120px;
+}
+
+.banner_main button{
+    padding: 15px 40px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    background-color: #FF7628;
+    border-radius: 100px;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 30px;
+    transition: .5s;
+    transform: scale(1);
+    margin-bottom: 60px;
+}
+
+.banner_main button:hover{
+    background-color: #3639A4;
+    transform: scale(1.1);
+}
+
+.banner_img img{
+    width: 100%;
+    position: relative;
+}
+
+.banner_img_inner img{
+    position: absolute;
+    top: 280px;
+    left: 1150px;
+    width: 16%;
+    
+   
+}
+
+.ban_one img{
+    width: 4%;
+    position: absolute;
+    top: 185px;
+    left: 1200px;
+}
+.ban_two{
+    position: absolute;
+    top: 480px;
+    left: 1060px;
+}
+
+.ban_three{
+    position: absolute;
+    top: 480px;
+    left: 1500px;
+}
+
+.ban_four{
+    position: absolute;
+    top: 750px;
+    left: 200px;
+}
+
+.ban_five{
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
